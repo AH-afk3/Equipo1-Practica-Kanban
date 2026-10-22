@@ -37,7 +37,11 @@ header h1 {
     border: 1px solid black; 
     padding: 10px;
     margin: 5px;
-    /* Implementen sus reglas aquí */
+    background-color: white;
+    border-radius: 12px;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.12);
+    cursor: pointer;
+    border: none;
 }
 
 #resumen-orden {
