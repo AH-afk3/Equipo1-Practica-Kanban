@@ -50,6 +50,7 @@ document.getElementById('btn-ordenar').addEventListener('click', function() {
      * - Reinicia 'totalActual' a 0.
      * - Actualiza el texto del id 'total' en el HTML a "0.00".
      */
+    /*Tarea 5*/
     if (totalActual > 0) {
         guardarComanda(totalActual);
         alert('Orden enviada');
